@@ -54,7 +54,7 @@ Each folder contains code files and solutions related to that specific topic.
 Contributions are welcome! If you have additional DSA problems or solutions you'd like to share, feel free to fork the repository and submit a pull request. Please ensure your code follows the repository's structure and guidelines.
 
 ## License
-This repository is licensed under the MIT License. See the LICENSE file for more details.
+This repository is licensed under the tushargoyl123. See the LICENSE file for more details.
 
 ## Contact
 If you have any questions, suggestions, or feedback, feel free to reach out:
