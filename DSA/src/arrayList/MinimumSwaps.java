@@ -14,9 +14,9 @@ public class MinimumSwaps {
 		al.add(5);
 		al.add(1);
 		al.add(3);
-//		System.out.println(swap1(al, al.size()));
-//		System.out.println(swap2(al, al.size()));
-//		System.out.println(swap3(al, al.size()));
+		System.out.println(swap1(al, al.size()));
+		System.out.println(swap2(al, al.size()));
+		System.out.println(swap3(al, al.size()));
 		System.out.println(swap4(al, al.size()));
 
 	}

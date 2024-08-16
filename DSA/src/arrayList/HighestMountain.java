@@ -21,7 +21,9 @@ public class HighestMountain {
 		al.add(3);
 		al.add(-2);
 		al.add(0);
-		int size = highestMountain2(al, al.size());
+		int size1 = highestMountain(al, al.size());
+		int size = highestMountain2(al, al.size());		
+		System.out.println(size1);
 		System.out.println(size);
 	}
 

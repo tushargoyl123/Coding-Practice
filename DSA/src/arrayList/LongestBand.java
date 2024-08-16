@@ -21,6 +21,7 @@ public class LongestBand {
 		al.add(12);
 		al.add(6);
 		System.out.println(longestBandHashing(al, al.size()));
+		System.out.println(longestBand(al, al.size()));
 	}
 
 	private static int longestBand(ArrayList<Integer> al, int n) {
