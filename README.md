@@ -61,7 +61,6 @@ If you have any questions, suggestions, or feedback, feel free to reach out:
 
 **GitHub:** https://github.com/tushargoyl123
 
-**Email:** [tushargoyl123@gmail.com]
-
+**Email:** tushargoyl123@gmail.com
 
 **Happy coding!**
