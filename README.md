@@ -28,19 +28,19 @@ The repository is organized into folders based on the type of problem or the dat
 
 /Coding-Practice/DSA/src
 
-├── arrayList/
+→ arrayList/
 
-├── linkedList/
+→ linkedList/
 
-├── tree/
+→ tree/
 
-├── graph/
+→ graph/
 
-├── dynamicProgramming/
+→ dynamicProgramming/
 
-├── sorting/
+→ sorting/
 
-├── bitManipulation/
+→ bitManipulation/
 
 
 Each folder contains code files and solutions related to that specific topic.
